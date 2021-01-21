@@ -1,6 +1,6 @@
 {
   "name": "encryptor",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Node.js module to AES256 encrypt and decrypt an object with a key",
   "main": "index.js",
   "scripts": {
