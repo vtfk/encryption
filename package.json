@@ -1,7 +1,8 @@
 {
-  "name": "@vtfk/encryptor",
+  "name": "@vtfk/encryption",
   "version": "1.0.0",
   "description": "Node.js module to AES256 encrypt and decrypt an object with a key",
+  "private": false,
   "main": "index.js",
   "scripts": {
     "test": "npm run test:standard && npm run test:jest",
