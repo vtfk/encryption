@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/vtfk/encryption#readme",
   "dependencies": {
-    "crypto-js": "4.0.0"
+    "crypto-js": "4.2.0"
   },
   "devDependencies": {
     "@types/jest": "26.0.24",
